@@ -1,9 +1,8 @@
-{   
-	"appName": "TestUpdate", 
-	"versionCode": "1", 
-	"versionName": "1.0", 
-	"apkUrl": "https://github.com/lxb66666/NxaApp/raw/master/app-armeabi-debug.apk", 
-	"changeLog":"1.修复xxx Bug;\n2.更新UI界面.", 
-	"updateTips": "更新提示",
-	"forceUpgrade": true
+{
+  "update_url"      : "https://github.com/lxb66666/NxaApp/raw/master/app-armeabi-debug.apk",
+  "update_content"  : "你有新的版本需要更新",
+  "update_ver_code" : 10,
+  "update_ver_name" : "10.00",
+  "ignore_able"     : true,
+  "md5"             : "211117732C307BEA1188965E6CA41443"
 }
